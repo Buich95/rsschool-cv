@@ -22,3 +22,11 @@ I want to start my career as a Front-end developer. I am responsible, easy to le
 
 ## Experience
 - (https://github.com/Buich95/Esca)
+
+## Education
+
+Graduated from the educational institution "Minsk State College of Electronics" in the specialties: "Computer operation" (2011 - 2014).
+
+## English
+
+Elementary (A1)
