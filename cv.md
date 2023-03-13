@@ -8,3 +8,17 @@
 - **phone**: +375 29 888-40-20
 - **email**: buyakov95@mail.ru
 - ***GitHub*: [Buich95](https://github.com/Buich95)
+
+## Summary
+
+I want to start my career as a Front-end developer. I am responsible, easy to learn, I have a desire to develop by profession.
+
+## Skills
+
+- HTML
+- CSS
+- SCSS
+- Git
+
+## Experience
+- (https://github.com/Buich95/Esca)
